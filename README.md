@@ -3,7 +3,6 @@
 
 # FOREST-CLASH ![screenshot](assets/Axes.png)
 
-This is the Microverse's final project for the Javascript  course.
 
 In this project I implemented an RPG game using [Phaser 3](http://phaser.io/tutorials), an open-source framework for Canvas and WebGL powered browser games.
 
